@@ -1,0 +1,14 @@
+.item{
+background-color: gray;
+float:left;
+box-shadow: inset 1px 0 0 red;
+}
+
+
+
+.container{
+height: auto;
+width: 200px;
+border: 1px solid red;
+};
+
